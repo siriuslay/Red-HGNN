@@ -1,0 +1,6 @@
+
+{'test_f1': '0.9372', 'test_mif1': '0.9320', 'val_f1': '0.9401', 'val_mif1': '0.9400', 'best_epoch': 105}
+{'model': 'REHGL', 'exp_name': 'debug', 'dataset': 'yelp', 'alpha': 0.2, 'dropout': 0.2, 'fgh_th': 0.4, 'fgp_th': 0.99, 'sem_th': 0.2, 'mp_list': ['bub', 'bsb', 'bublb', 'bubsb'], 'lr': 0.01, 'seed': 0}
+
+{'test_f1': '0.9434', 'test_mif1': '0.9374', 'val_f1': '0.9368', 'val_mif1': '0.9367', 'best_epoch': 136}
+{'model': 'REHGL', 'exp_name': 'debug', 'dataset': 'yelp', 'alpha': 0.2, 'dropout': 0.2, 'fgh_th': 0.4, 'fgp_th': 0.99, 'sem_th': 0.2, 'mp_list': ['bub', 'bsb', 'bublb', 'bubsb'], 'lr': 0.01, 'seed': 1}
