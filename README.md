@@ -1,5 +1,13 @@
 # Sub-HGNN
 Source code of Master's degree thesis: "Subgraph structure learning for Heterogeneous Graph Neural Networks"
+
+
+
+
+ 
+   
+     
+![image](model.png)
 # Requirements
 1. Python >= 3.6.8
 2. Pytorch >= 1.3.0
