@@ -15,3 +15,5 @@ Model scheme:
 2. Pytorch >= 1.3.0
 # Useage
 Take "yelp" dataset as an example: python src/train.py
+# Reference
+This paper and codes are mainly inspired by ["Heterogeneous Graph Structure Learning for Graph Neural Networks"](https://github.com/AndyJZhao/HGSL)
