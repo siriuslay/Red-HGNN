@@ -1,9 +1,10 @@
-# Sub-HGNN
+<!-- # Sub-HGNN
 Source code of Master's degree thesis: "Subgraph structure learning for Heterogeneous Graph Neural Networks"
+-->
 
 
-
-
+# Red-HGNN
+Source code of submission: "Relation Decoupled Heterogeneous Graph Neural Network"
  
    
 Model scheme:  
